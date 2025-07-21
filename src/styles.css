@@ -1,0 +1,12 @@
+/* Estilos personalizados */
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Poppins', sans-serif;
+}
+
+code, pre, .team-name {
+  font-family: 'Courier New', monospace; /* Fallback para Geist Mono */
+}
